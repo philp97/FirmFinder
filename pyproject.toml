@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "firm-finder"
 version = "0.1.0"
-description = "Search firms and return their ownership and main line of bussines"
+description = "Search firms and return their ownership and main line of busines"
 authors = ["Philipe Balan"]
 
 [tool.poetry.dependencies]
