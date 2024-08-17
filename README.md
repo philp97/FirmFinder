@@ -39,4 +39,42 @@ This project leverages the power of Crewai to automate the classification of fir
 
    ```bash
    git clone https://github.com/yourusername/firm-classification.git
-   cd firm-classification
+   cd Firmfinder
+   
+2. Run the model
+   
+    ```bash
+    poetry install --no-root
+    poetry shell
+    python main.py
+
+3. Enter firms names   
+
+   ```bash
+    ## Welcome to Crew AI Template
+   -------------------------------
+   Enter List of Firms: Tesla, Banco do Brasil, Vale S.A., Petrobras
+
+4. Output 
+
+   ```bash
+   ########################
+   ## Here is you custom crew run result:
+   ########################
+   Tesla, Private, Technology
+   Banco do Brasil, State, Bank
+   Vale S.A., Private, Mining and Energy
+   Petrobras, State, Oil and Gas
+
+  
+   
+
+
+
+
+
+
+
+
+
+
