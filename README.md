@@ -20,7 +20,7 @@ This project leverages the power of Crewai to automate the classification of fir
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/firm-classification.git
+   git clone https://github.com/philp97/Firmfinder.git
    cd Firmfinder
    
 2. Run the model
