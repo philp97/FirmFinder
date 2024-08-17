@@ -1,0 +1,1 @@
+Get a list of firms and determine if they are state ownedor private and their area of operation.
