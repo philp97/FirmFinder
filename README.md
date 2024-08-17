@@ -41,7 +41,7 @@ This project leverages the power of Crewai to automate the classification of fir
 
    ```bash
    ########################
-   ## Here is you custom crew run result:
+   ## Here is your custom crew run result:
    ########################
    Tesla, Private, Technology
    Banco do Brasil, State, Bank
