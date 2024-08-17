@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "trip-planner-yt"
+name = "firm-finder"
 version = "0.1.0"
-description = "Simple ai trip planner"
-authors = ["Joao Moura, Brandon Hancock"]
+description = "Search firms and return their ownership and main line of bussines"
+authors = ["Philipe Balan"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.12"
